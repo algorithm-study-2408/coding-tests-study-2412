@@ -1,10 +1,11 @@
-package hyojin.sort;
+package hyojin;
 
 import java.util.Arrays;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/42747
  */
+
 public class 제출내역 {
     public static void main(String[] args) {
         int[] citations = {3, 0, 6, 1, 5};
