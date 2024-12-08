@@ -1,4 +1,4 @@
-package jaehoon;
+package jaehoon._01주차;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package jaehoon;
+package jaehoon._01주차;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/43162
 public class Lv03_네트워크 {
