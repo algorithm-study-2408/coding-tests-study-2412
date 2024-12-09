@@ -3,9 +3,6 @@ package seyoung._2412_2주차;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- *
- */
 
 public class 다리를_지나는_트럭 {
 
