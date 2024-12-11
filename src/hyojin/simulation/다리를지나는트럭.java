@@ -1,4 +1,4 @@
-package hyojin.queue;
+package hyojin.simulation;
 
 import java.util.LinkedList;
 import java.util.Queue;
