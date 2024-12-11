@@ -15,6 +15,7 @@ class Music {
   }
 }
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/42579
 public class Lv03_베스트앨범 {
 
   public static int[] solution(String[] genres, int[] plays) {
