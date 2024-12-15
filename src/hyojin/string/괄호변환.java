@@ -1,5 +1,7 @@
 package hyojin.string;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/60058
+
 public class 괄호변환 {
 
     public static void main(String[] args) {
