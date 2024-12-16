@@ -1,4 +1,4 @@
-package hyojin.test;
+package hyojin.simulation;
 
 import java.util.*;
 
