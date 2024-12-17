@@ -1,4 +1,4 @@
-package hyojin.test;
+package hyojin.simulation;
 
 import java.util.*;
 
@@ -27,6 +27,7 @@ import java.util.*;
 5. 결과 반환
    - 1차원 배열을 반환.
  */
+
 public class 삼각달팽이 {
     public static int[] solution(int n) {
         // 1. 삼각형 배열 생성
