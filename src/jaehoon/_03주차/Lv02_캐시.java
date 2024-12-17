@@ -1,4 +1,4 @@
-package jaehoon._02주차;
+package jaehoon._03주차;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/17680
 
