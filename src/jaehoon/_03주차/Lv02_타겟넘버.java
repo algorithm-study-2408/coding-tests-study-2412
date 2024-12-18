@@ -1,5 +1,6 @@
 package jaehoon._03주차;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/43165
 public class Lv02_타겟넘버 {
 
   public static void main(String[] args) {
