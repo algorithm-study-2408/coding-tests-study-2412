@@ -2,6 +2,8 @@ package hyojin.simulation;
 
 import java.util.*;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/17680
+
 public class _1차캐시 {
     public static void main(String[] args) {
         int cacheSize = 3;
