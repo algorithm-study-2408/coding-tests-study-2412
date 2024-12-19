@@ -1,4 +1,4 @@
-package seyoung;
+package seyoung._2412_1주차;
 
 public class Network_dfs {
     //방문 여부 체크 배열
