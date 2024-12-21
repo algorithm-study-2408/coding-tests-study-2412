@@ -36,7 +36,7 @@ public class Lv02_주차요금계산 {
 
       if (action.equals("IN")) {
         // 3-1. 키가 존재하지 않을 경우 ArrayDeque<String> 생성 후 값 추가
-        recordMap.computeIfAbsent(carNumber, key -> new ArrayDeque<Integer>())
+        recordMap.computeIfAbsent(carNumber, key -> new ArrayDeque<>())
                  .addLast(minute);
         // 3-2. 키가 존재하지 않을 경우 차량 누적 시각 맵 생성
         totalTimeMap.putIfAbsent(carNumber, 0);
