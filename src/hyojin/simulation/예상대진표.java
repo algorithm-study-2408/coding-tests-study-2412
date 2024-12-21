@@ -1,4 +1,4 @@
-package hyojin.test;
+package hyojin.simulation;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/12985
 
