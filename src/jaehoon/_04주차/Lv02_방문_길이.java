@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Set;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/49994
-public class Lv02_방문길이 {
+public class Lv02_방문_길이 {
 
   public static void main(String[] args) {
     String dirs1 = "ULURRDLLU";
