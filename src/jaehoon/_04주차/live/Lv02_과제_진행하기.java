@@ -2,6 +2,7 @@ package jaehoon._04주차.live;
 
 import java.util.*;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/176962
 public class Lv02_과제_진행하기 {
 
   public static void main(String[] args) {

@@ -2,6 +2,7 @@ package jaehoon._04주차.live;
 
 import java.util.Arrays;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/77485
 public class Lv02_행렬_테두리_회전하기 {
 
   static int[][] rc;
