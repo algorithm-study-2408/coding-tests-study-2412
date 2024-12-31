@@ -2,6 +2,7 @@ package jaehoon._05주차;
 
 import java.util.Arrays;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/150368
 public class Lv02_이모티콘_할인행사_리팩토링 {
 
   public static void main(String[] args) {

@@ -3,6 +3,7 @@ package jaehoon._05주차;
 import java.util.Arrays;
 import java.util.Comparator;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/181188
 public class Lv02_요격시스템 {
 
   public static void main(String[] args) {
@@ -17,7 +18,7 @@ public class Lv02_요격시스템 {
     // 2. 첫 번째로 만들어지는 요격 시스템
     int end = -1;
     int answer = 0;
-    // 3. 정렬된 폭격 미사일 하나씩 접근하기
+    // 3. 정렬된 폭격 미사일 하나씩 ㅅ접근하기
     for(int[] tar : targets){
       // 다음 요격미사일의 시작 지점이 요격의 end지점보다 크거나 같으면 (겹치지 않으면)
       if(tar[0] >= end){
