@@ -1,4 +1,4 @@
-package jaehoon._04주차.순열_조합;
+package jaehoon._00연습.순열_조합;
 
 public class 순열 {
 
