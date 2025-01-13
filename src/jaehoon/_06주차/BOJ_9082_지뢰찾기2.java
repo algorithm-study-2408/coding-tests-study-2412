@@ -15,6 +15,7 @@ import java.util.Arrays;
  * - 각 칸을 순회하며 가능한 곳에 지뢰를 배치<p>
  * - 첫 번째 칸과 마지막 칸은 따로 처리하고, 중간 칸은 반복문으로 처리<p>
  */
+// https://www.acmicpc.net/problem/9082
 public class BOJ_9082_지뢰찾기2 {
   /**
    * 입력예시:

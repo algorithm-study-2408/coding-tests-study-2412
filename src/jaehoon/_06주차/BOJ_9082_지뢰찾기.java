@@ -16,6 +16,7 @@ import java.io.InputStreamReader;
  * - (total + 2) / 3은 주어진 숫자 합을 3으로 나눈 결과의 올림 값을 계산하는 방식
  * - 이는 지뢰가 하나라도 남아있으면 새로운 지뢰를 추가로 고려하는 결과를 제공<p>
  */
+// https://www.acmicpc.net/problem/9082
 public class BOJ_9082_지뢰찾기 {
   /**
    * 입력예시:
