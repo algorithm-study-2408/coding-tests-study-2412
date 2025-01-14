@@ -51,34 +51,21 @@ public class BOJ_1461_도서관 {
         positives.add(position);
       }
     }
-    System.out.println("정렬 전");
-    System.out.println("positives = " + positives);
-    System.out.println("negatives = " + negatives);
-    System.out.println();
 
     // 음수와 양수를 절댓값 기준 내림차순 정렬
     negatives.sort((a, b) -> Integer.compare(Math.abs(b), Math.abs(a)));
     positives.sort((a, b) -> Integer.compare(Math.abs(b), Math.abs(a)));
-    System.out.println("절대값 기준 내림차순 정렬 후");
-    System.out.println("positives = " + positives);
-    System.out.println("negatives = " + negatives);
-    System.out.println();
 
     int totalDistance = 0;
 
     // 음수 그룹 처리
     for (int i = 0; i < negatives.size(); i += m) {
-      System.out.println("i = " + i);
       totalDistance += Math.abs(negatives.get(i)) * 2; // 왕복 거리
-      System.out.println("totalDistance = " + totalDistance);
     }
-    System.out.println();
 
     // 양수 그룹 처리
     for (int i = 0; i < positives.size(); i += m) {
-      System.out.println("i = " + i);
       totalDistance += positives.get(i) * 2; // 왕복 거리
-      System.out.println("totalDistance = " + totalDistance);
     }
 
     // 가장 먼 곳은 편도로 이동하므로 한 번 빼기
@@ -89,7 +76,6 @@ public class BOJ_1461_도서관 {
     } else if (!positives.isEmpty()) {
       totalDistance -= positives.get(0);
     }
-    System.out.println("totalDistance = " + totalDistance);
 
     // 결과 출력
     System.out.println(totalDistance);
