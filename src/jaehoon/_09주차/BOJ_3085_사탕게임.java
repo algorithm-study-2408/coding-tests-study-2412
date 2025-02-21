@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// https://www.acmicpc.net/problem/3085
 public class BOJ_3085_사탕게임 {
 
   static int N;
