@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// https://www.acmicpc.net/problem/20125
 public class BOJ_20125_쿠키의_신체_측정 {
 
   static int N;
