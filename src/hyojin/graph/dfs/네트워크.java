@@ -1,4 +1,4 @@
-package hyojin.dfs;
+package hyojin.graph.dfs;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/43162
 

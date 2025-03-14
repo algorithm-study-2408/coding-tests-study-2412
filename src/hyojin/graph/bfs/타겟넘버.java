@@ -1,4 +1,4 @@
-package hyojin.bfs;
+package hyojin.graph.bfs;
 
 import java.util.*;
 
@@ -15,7 +15,7 @@ public class 타겟넘버 {
         }
     }
 
-    public int solution(int[] numbers, int target) {
+    public static int solution(int[] numbers, int target) {
         // 트리 구조를 사용하여, BFS 최종 값들은 구해서 target값과 같을 경우 카운트하기
         int count = 0;
 
@@ -41,5 +41,11 @@ public class 타겟넘버 {
         }
 
         return count;
+    }
+
+    public static void main(String[] args) {
+        int[] numbers = {1,1,1,1,1};
+        int target = 3;
+        solution(numbers, target);
     }
 }

@@ -1,4 +1,4 @@
-package hyojin.dfs;
+package hyojin.graph.dfs;
 
 public class 피로도 {
 
