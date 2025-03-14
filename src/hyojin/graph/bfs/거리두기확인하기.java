@@ -1,4 +1,4 @@
-package hyojin.bfs;
+package hyojin.graph.bfs;
 
 import java.util.*;
 
